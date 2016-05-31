@@ -1,0 +1,14 @@
+E:\test\Quartz.NET-2.3.3\QuartzWinService\bin\Debug\quartz_jobs.xml
+E:\test\Quartz.NET-2.3.3\QuartzWinService\bin\Debug\quartz.config
+E:\test\Quartz.NET-2.3.3\QuartzWinService\bin\Debug\QuartzWinService.exe
+E:\test\Quartz.NET-2.3.3\QuartzWinService\bin\Debug\QuartzWinService.pdb
+E:\test\Quartz.NET-2.3.3\QuartzWinService\bin\Debug\Quartz.dll
+E:\test\Quartz.NET-2.3.3\QuartzWinService\bin\Debug\Topshelf.dll
+E:\test\Quartz.NET-2.3.3\QuartzWinService\bin\Debug\Common.Logging.Core.dll
+E:\test\Quartz.NET-2.3.3\QuartzWinService\bin\Debug\Common.Logging.dll
+E:\test\Quartz.NET-2.3.3\QuartzWinService\obj\Debug\QuartzWinService.ProjectInstaller.resources
+E:\test\Quartz.NET-2.3.3\QuartzWinService\obj\Debug\QuartzWinService.csproj.GenerateResource.Cache
+E:\test\Quartz.NET-2.3.3\QuartzWinService\obj\Debug\QuartzWinService.exe
+E:\test\Quartz.NET-2.3.3\QuartzWinService\obj\Debug\QuartzWinService.pdb
+E:\test\quartz\QuartzWinService\obj\Debug\QuartzWinService.exe
+E:\test\quartz\QuartzWinService\obj\Debug\QuartzWinService.pdb
